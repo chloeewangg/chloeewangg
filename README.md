@@ -1,0 +1,2 @@
+This is a deep reinforcement learning model that can play Atari Space Invaders. I used OpenAI Gym Retro to create the environment that my agent plays in. The neural network is used to process frames from the game to understand where and what objects and the agent are doing. It's made of 3 convolutional layers and 3 dense layers.
+This specific model trained for 10k steps and plays decently. This project is explained more in this [article](https://chloeewang.medium.com/using-deep-reinforcement-learning-to-play-atari-space-invaders-8d5159aa69ed).
